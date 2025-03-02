@@ -1,1 +1,1 @@
-opps mini project
+DBMS mini project
